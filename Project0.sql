@@ -1,0 +1,2 @@
+ALTER TABLE ACCOUNTS ADD COLUMN joint VARCHAR2(12) default null;
+commit;
